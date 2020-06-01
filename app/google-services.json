@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "183567786037",
+    "firebase_url": "https://kwik-845e1.firebaseio.com",
+    "project_id": "kwik-845e1",
+    "storage_bucket": "kwik-845e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183567786037:android:a8a3639e636a9f5cff517c",
+        "android_client_info": {
+          "package_name": "com.example.kwik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183567786037-lsr1kg507ft3pnteku7qbvq5idpge42v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrWUO_14r_5S1HQnTyXcU57hQTt241n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183567786037-lsr1kg507ft3pnteku7qbvq5idpge42v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
